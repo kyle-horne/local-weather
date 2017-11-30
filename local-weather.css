@@ -1,0 +1,30 @@
+body {
+  background-color: #000;
+}
+
+.row {
+  padding-top: 20px;
+}
+
+.card-text span {
+  cursor: pointer;
+}
+
+.card {
+  border: 0px;
+}
+.card-header {
+  background-color: #007bff;
+  color: #fff;
+}
+
+p, .card-title {
+  margin-bottom: 0px;
+}
+p {
+  font-size: 1.3em;
+}
+
+h1 {
+  font-size: 3.5rem;
+}
